@@ -1,7 +1,7 @@
 PROJECT WATTLESS
 ================
 Gary Chaw (gchaw)
-Bain Syrowik (bains)
+Bain Syrowik (bain-syrowik)
 
 Overview:
 Simple gpu-accelerated AES encryption program written in C, cuda and OpenCL. We implemented counter mode.
